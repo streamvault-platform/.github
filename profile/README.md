@@ -1,5 +1,7 @@
 # StreamVault
 _under active development - not production ready yet_
+
+
 Self-hostable music streaming platform with native smartwatch offline sync.
 
 Deploy in one command via Docker Compose. Production-ready on Kubernetes via Helm.
